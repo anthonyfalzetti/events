@@ -45,6 +45,8 @@ end
 
 group :test, :development do
 	gem "rspec-rails"
+
+	gem "minitest"
 end
 
 group :test do
